@@ -1,0 +1,9 @@
+#result-area li.file:before {
+    content: "\f498";
+    font-family: 'Dashicons';
+}
+
+#result-area li.folder:before {
+    content: "\f318";
+    font-family: 'Dashicons';
+}
